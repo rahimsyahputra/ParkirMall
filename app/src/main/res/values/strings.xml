@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Parkir Mall</string>
+    <string name="judul">PARKIR MALL</string>
+    <string name="cek_ketersediaan">CEK KETERSEDIAAN TEMPAT PARKIR</string>
+    <string name="btn_lanjut">LANJUT</string>
+    <string name="tv_ketersediaan">TEMPAT PARKIR TERSEDIA</string>
+    <string name="tv_total_ketersediaan"> TOTAL</string>
+    <string name="tv_total_ketersediaan2"> /12</string>
+    <string name="tv_pilih_lantai"> LIHAT KETERSEDIAAN </string>
+    <string name="btn_lantai1">LANTAI 1</string>
+    <string name="btn_lantai2">LANTAI 2</string>
+    <string name="tv_hasil_lantai1"> TOTAL</string>
+    <string name="tv_total_ketersediaan_perlantai"> /6</string>
+    <string name="btn_kembali">KEMBALI</string>
+    <string name="ultra3">TODO</string>
+    <string name="tv_ultra1">posisi</string>
+    <string name="show_time">TIME</string>
+</resources>

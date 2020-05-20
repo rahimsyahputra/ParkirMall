@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13767290135",
+    "firebase_url": "https://tugasakhir-ketersediaanparkir.firebaseio.com",
+    "project_id": "tugasakhir-ketersediaanparkir",
+    "storage_bucket": "tugasakhir-ketersediaanparkir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13767290135:android:33a61f8e37d43b24de1b52",
+        "android_client_info": {
+          "package_name": "id.kotlin.parkirmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13767290135-4ciftgj6p8v5tj1heb383lm8m1dj4fa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kotlin.parkirmall",
+            "certificate_hash": "98eb3d873280bdfd2b04cbf5861e57b5635853f4"
+          }
+        },
+        {
+          "client_id": "13767290135-90hfs2uqhvkef90rmbmsf0dac2au1hfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhccSISISdwIEtgrG-KidtE3V_4WtRFyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13767290135-90hfs2uqhvkef90rmbmsf0dac2au1hfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
